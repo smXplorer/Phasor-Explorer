@@ -12,6 +12,7 @@ Phasor Explorer Manual
    installation
    version-history
    bibliography
+   acknowledgements
    support
 
 * :ref:`search`

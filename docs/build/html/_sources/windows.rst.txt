@@ -57,11 +57,10 @@ Because of the finite resolution of such an image, it is generally recommended t
 
 .. _settings-window:
 
-Settings  Window
-----------------
+Settings Window
+---------------
 
-The Settings window (which can be left open at all times) gives access to all parameters/options controlling
- the different types of calculations:
+The Settings window (which can be left open at all times) gives access to all parameters/options controlling the different types of calculations:
 
 - Display
 - Phasor
