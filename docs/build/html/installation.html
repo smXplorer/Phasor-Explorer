@@ -33,6 +33,7 @@
         <script src="_static/underscore.js"></script>
         <script src="_static/doctools.js"></script>
         <script src="_static/language_data.js"></script>
+        <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
     
     <script type="text/javascript" src="_static/js/theme.js"></script>
 
@@ -96,13 +97,19 @@
 <li class="toctree-l1"><a class="reference internal" href="analysis.html">Analysis</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Download &amp; Installation</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#system-requirements">System Requirements</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#download-the-installer-s">Download the Installer(s)</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#phasor-explorer-installer">Phasor Explorer Installer</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#installation-instructions">Installation Instructions</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#software-requirements">Software Requirements</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#using-the-source-code">Using the source code</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#using-the-executable">Using the executable</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#source-code-installation">Source code installation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#executable-installation">Executable installation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#labview-fds-or-rte-installation">LabVIEW FDS or RTE Installation</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="version-history.html">Version History</a></li>
 <li class="toctree-l1"><a class="reference internal" href="bibliography.html">Bibliography</a></li>
+<li class="toctree-l1"><a class="reference internal" href="support.html">Support</a></li>
 </ul>
 
             
@@ -177,36 +184,59 @@
 <p>The executable version of this software will only run on 64 bit versions of Microsoft Windows 7 and up. The source code will run on Windows only due to the use of some .NET functions.</p>
 <p>Some of the functions used by the software support parallelism, therefore a multiprocessor and/or multicore computer is recommended (this statement is not as dated as it sounds, as virtual machines offer the choice of core number).</p>
 </div>
-<div class="section" id="download-the-installer-s">
-<h2>Download the Installer(s)<a class="headerlink" href="#download-the-installer-s" title="Permalink to this headline">¶</a></h2>
-<p>2 pieces of software need to be present on your computer for AlliGator to run properly:</p>
+<div class="section" id="software-requirements">
+<h2>Software Requirements<a class="headerlink" href="#software-requirements" title="Permalink to this headline">¶</a></h2>
+<p>2 pieces of software need to be present on your computer for Phasor Explorer to run properly. They depend on whether you want to use the source code (say, if you want to look under the hood and understand what is being calculated) or simply run an executable.</p>
+<div class="section" id="using-the-source-code">
+<h3>Using the source code<a class="headerlink" href="#using-the-source-code" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
-<li><p>Phasor Explorer</p></li>
+<li><p>Phasor Explorer source code</p></li>
+<li><p>LabVIEW Full Development System (FDS)</p></li>
+</ul>
+</div>
+<div class="section" id="using-the-executable">
+<h3>Using the executable<a class="headerlink" href="#using-the-executable" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Phasor Explorer Installer</p></li>
 <li><p>LabVIEW Run-time Engine (RTE)</p></li>
 </ul>
-<p>Follow the instructions below to make sure you install the correct versions of each. Do not hesitate to post a support request on the Support Google Group to ask for help or advice.</p>
+<p>Follow the corresponding instructions below for each part, in order to make sure you install the correct versions of only the part you need. Do not hesitate to post a support request on the Support Google Group to ask for help or advice.</p>
 </div>
-<div class="section" id="phasor-explorer-installer">
-<h2>Phasor Explorer Installer<a class="headerlink" href="#phasor-explorer-installer" title="Permalink to this headline">¶</a></h2>
-<p>To be modified.</p>
-<p>The installer only installs the software and its dependent files, but won’t result in a functional executable unless you have the LabVIEW 64 bit Run-Time Engine (RTE) installed on your machine (*). If you have a LabVIEW 64 bit RTE version more recent than the one recommended below, Phasor Explorer should run fine with it, and thus there is no need to install an older RTE version than the one you are already using.</p>
-<p>The LabVIEW RTE installer is available for free from National Instruments (link below).</p>
-<p>(*) The required version of the RTEs depends on the AlliGator software version:</p>
-<p>LabVIEW 2019 SP1 (or later) 64 bit RTE for version 0.2 and above:
-RTE: <a class="reference external" href="https://www.ni.com/en-us/support/downloads/software-products/download.labview.html#329457">https://www.ni.com/en-us/support/downloads/software-products/download.labview.html#329457</a></p>
-<p>Several versions of the RTE can be installed concurrently on the same machine, but since they are hefty, it is possible to uninstall the unused versions to save space.</p>
-<p>Uninstalling Phasor Explorer does not uninstall the corresponding RTE version, therefore it is only necessary to install the required RTE once.</p>
-<p>Note that if you have the correct LabVIEW development environment installed on your machine, there is no need to install the RTE again, as it will already be available.</p>
 </div>
-<div class="section" id="installation-instructions">
-<h2>Installation Instructions<a class="headerlink" href="#installation-instructions" title="Permalink to this headline">¶</a></h2>
-<ol class="arabic simple">
-<li><p>Once the LabVIEW RTE is installed (this only needs to be done once, unless the version changed - see above), download the zip file (by clicking on the downward-pointing arrow to the right) in a location you can easily access (e.g. on the Desktop).</p></li>
+<div class="section" id="source-code-installation">
+<h2>Source code installation<a class="headerlink" href="#source-code-installation" title="Permalink to this headline">¶</a></h2>
+<p>The source files can be found in the Phasor Explorer Distribution repository on Bitbucket at:
+<a class="reference external" href="https://bitbucket.org/smXplorer/phasor-explorer-distribution">https://bitbucket.org/smXplorer/phasor-explorer-distribution</a></p>
+<p>You can either clone the repository on your computer using git, or simply download a zipped archive of the full repository from the <code class="docutils literal notranslate"><span class="pre">...</span></code> dropdown menu visible on the topright corner of the window (Download repository).</p>
+</div>
+<div class="section" id="executable-installation">
+<h2>Executable installation<a class="headerlink" href="#executable-installation" title="Permalink to this headline">¶</a></h2>
+<p>1. Download the zipped installer file, which can be found in the installer directory of the Phasor Explorer Distribution repository on Bitbucket at:
+<a class="reference external" href="https://bitbucket.org/smXplorer/phasor-explorer-distribution">https://bitbucket.org/smXplorer/phasor-explorer-distribution</a></p>
+<p>Note: The installer only installs the software and its dependent files, but won’t result in a functional executable unless you have the LabVIEW 64 bit Run-Time Engine (RTE) installed on your machine (*). If you have a LabVIEW 64 bit RTE version more recent than the one recommended below, Phasor Explorer should run fine with it, and thus there is no need to install an older RTE version than the one you are already using.</p>
+<ol class="arabic simple" start="2">
 <li><p>Unzip the file. This requires right-clicking on the zip file and selecting “Extract All…” to expand the archive into a new, temporary folder.</p></li>
 <li><p>Run the setup.exe file found in that folder.</p></li>
 <li><p>Follow the instructions on the installation screen (the default values are fine).</p></li>
 </ol>
 <p>The installer will create a “Phasor Analysis” folder under the “Program Files” directory on your computer (unless it already exists, in which case it will not be modified) and install the corresponding version of Phasor Explorer in it.</p>
+</div>
+<div class="section" id="labview-fds-or-rte-installation">
+<h2>LabVIEW FDS or RTE Installation<a class="headerlink" href="#labview-fds-or-rte-installation" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>The LabVIEW FDS installer is available from NI for registered users, or can be downloaded for a limited trial period, at:</p></li>
+</ul>
+<p><a class="reference external" href="https://www.ni.com/en-us/support/downloads/software-products/download.labview.html">https://www.ni.com/en-us/support/downloads/software-products/download.labview.html</a></p>
+<p>Registered users can select whatever version they want, while trial users will only have access to the latest version. Whatever version (including or newer than LabVIEW 2019 SP1, make sure you select the 64 bit Windows version.</p>
+<ul class="simple">
+<li><p>The LabVIEW RTE installer is available for free from NI (link below).</p></li>
+</ul>
+<p>(*) The required version of the RTEs depends on the Phasor Explorer software version:</p>
+<p>LabVIEW 2019 SP1 (or later) 64 bit RTE for version 0.2 and above:
+RTE: <a class="reference external" href="https://www.ni.com/en-us/support/downloads/software-products/download.labview.html#329457">https://www.ni.com/en-us/support/downloads/software-products/download.labview.html#329457</a></p>
+<p>Several versions of the RTE can be installed concurrently on the same machine, but since they are hefty, it is possible to uninstall the unused versions to save space.</p>
+<p>Uninstalling Phasor Explorer does not uninstall the corresponding RTE version, therefore it is only necessary to install the required RTE once.</p>
+<p>Note that if you have the correct LabVIEW development environment installed on your machine, there is no need to install the RTE again, as it will already be available.</p>
 </div>
 </div>
 

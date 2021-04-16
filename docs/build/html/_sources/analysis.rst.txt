@@ -18,11 +18,11 @@ Note that these values are computed only for the finite number of lifetime value
 Pseudo Phase Lifetime
 ---------------------
 
-he dependence of the pseudo phase lifetime {\tau _\varphi } of PSED as defined in this article can be studied using Analysis>>Pseudo Phase Lifetime Plot in the menu bar.
+The dependence of the pseudo phase lifetime :math:`\tau _\varphi` of PSED as defined in this article can be studied using Analysis >> Pseudo Phase Lifetime Plot in the menu bar.
 
 The gate parameters, laser period, phasor frequency and calibration lifetime used in this calculation are those defined in the respective panels of the Settings window.
 
-A checkbox on the front panel (Compute Delta Tau) allows calculating the difference {\tau _\varphi } - \tau  instead.
+A checkbox on the front panel (Compute Delta Tau) allows calculating the difference :math:`\tau _\varphi - \tau`  instead.
 
 Decay, Gate & Gated Decay
 -------------------------
