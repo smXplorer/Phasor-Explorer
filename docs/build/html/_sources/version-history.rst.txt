@@ -1,10 +1,17 @@
 Version History
 ===============
 
+0.3.1 (released 2021-04-30)
+---------------------------
+
+- Bug Fixes
+
+	* fixed an erroneous error message when computing non square gates
+
 0.3 (released 2021-04-15)
 -------------------------
 
-- Big Fixes
+- Bug Fixes
 
 	* Minor UI issues fixed
 	* Minor bug fixes

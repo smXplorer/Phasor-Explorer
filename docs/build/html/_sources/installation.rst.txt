@@ -17,12 +17,14 @@ Using the source code
 ^^^^^^^^^^^^^^^^^^^^^
 
 - Phasor Explorer source code
+
 - LabVIEW Full Development System (FDS)
 
 Using the executable
 ^^^^^^^^^^^^^^^^^^^^
 
 - Phasor Explorer Installer
+
 - LabVIEW Run-time Engine (RTE)
 
 Follow the corresponding instructions below for each part, in order to make sure you install the correct versions of only the part you need. Do not hesitate to post a support request on the Support Google Group to ask for help or advice.
@@ -54,8 +56,8 @@ The installer will create a "Phasor Analysis" folder under the "Program Files" d
 LabVIEW FDS or RTE Installation
 -------------------------------
 
-- The LabVIEW FDS installer is available from NI for registered users, or can be downloaded for a limited trial period, at:
-https://www.ni.com/en-us/support/downloads/software-products/download.labview.html
+- The LabVIEW FDS installer is available from NI for registered users, or can be downloaded for a limited trial period, at: https://www.ni.com/en-us/support/downloads/software-products/download.labview.html
+
 
 Registered users can select whatever version they want, while trial users will only have access to the latest version. Whatever version (including or newer than LabVIEW 2019 SP1, make sure you select the 64 bit Windows version.
 
