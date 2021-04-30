@@ -126,5 +126,6 @@
 	<Item Name="XY Graph Add-Ons Changelog.txt" Type="Document" URL="../XY Graph Add-Ons Changelog.txt"/>
 	<Item Name="XY Graph Get Plot Metadata Type.vi" Type="VI" URL="../XY Graph Get Plot Metadata Type.vi"/>
 	<Item Name="XY Graph Load Single Column Plot from ASCII.vi" Type="VI" URL="../XY Graph Load Single Column Plot from ASCII.vi"/>
+	<Item Name="XY Graph Selected Plot Info+Flag.ctl" Type="VI" URL="../../../../../../Graphs/XY Graph/XY Graph Selected Plot Info+Flag.ctl"/>
 	<Item Name="XY Graph Selected Plot Info.ctl" Type="VI" URL="../../../../../../Graphs/XY Graph/XY Graph Selected Plot Info.ctl"/>
 </Library>
