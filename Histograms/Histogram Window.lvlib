@@ -7,11 +7,12 @@
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Get Last Plot Fit Data.vi" Type="VI" URL="../Get Last Plot Fit Data.vi"/>
+		<Item Name="Histogram Window Internal Variables.ctl" Type="VI" URL="../Histogram Window Internal Variables.ctl"/>
 		<Item Name="Histogram Window.rtm" Type="Document" URL="../Histogram Window.rtm"/>
 		<Item Name="Invert Histogram.vi" Type="VI" URL="../Invert Histogram.vi"/>
 		<Item Name="Rebin Histogram with Dialog.vi" Type="VI" URL="../Rebin Histogram with Dialog.vi"/>
-		<Item Name="Set Graph Legend.vi" Type="VI" URL="../Set Graph Legend.vi"/>
-		<Item Name="Update Histogram Window Menu Checks.vi" Type="VI" URL="../Update Histogram Window Menu Checks.vi"/>
+		<Item Name="Set Graph Legend.vi" Type="VI" URL="../../../../../Histograms/Set Graph Legend.vi"/>
+		<Item Name="Update Histogram Window Menu Checks.vi" Type="VI" URL="../../../../../Histograms/Update Histogram Window Menu Checks.vi"/>
 	</Item>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
@@ -19,13 +20,15 @@
 		<Item Name="Create XY Plot Histogram.vi" Type="VI" URL="../../../../../Histograms/Create XY Plot Histogram.vi"/>
 		<Item Name="Data Statistics.ctl" Type="VI" URL="../Data Statistics.ctl"/>
 		<Item Name="Filter Histogram Values.vi" Type="VI" URL="../Filter Histogram Values.vi"/>
+		<Item Name="Get Histogram Style.vi" Type="VI" URL="../../../../../Histograms/Get Histogram Style.vi"/>
 		<Item Name="Histogram Bin Size Definition Dialog.vi" Type="VI" URL="../Histogram Bin Size Definition Dialog.vi"/>
 		<Item Name="Histogram Window Q Action v2.ctl" Type="VI" URL="../Histogram Window Q Action v2.ctl"/>
 		<Item Name="Histogram Window Q Element v2.ctl" Type="VI" URL="../Histogram Window Q Element v2.ctl"/>
+		<Item Name="Histogram Window Specific Actions.vi" Type="VI" URL="../Histogram Window Specific Actions.vi"/>
 		<Item Name="Histogram Window.vi" Type="VI" URL="../Histogram Window.vi"/>
 		<Item Name="Plot Histogram Call Parameters.ctl" Type="VI" URL="../../../../../Histograms/Plot Histogram Call Parameters.ctl"/>
 		<Item Name="Plot Histogram.ctl" Type="VI" URL="../Plot Histogram.ctl"/>
-		<Item Name="Updated Plot Info.ctl" Type="VI" URL="../../ALiX/Updated Plot Info.ctl"/>
+		<Item Name="Updated Plot Info.ctl" Type="VI" URL="../Updated Plot Info.ctl"/>
 	</Item>
 	<Item Name="Histogram Window Changelog.txt" Type="Document" URL="../Histogram Window Changelog.txt"/>
 </Library>

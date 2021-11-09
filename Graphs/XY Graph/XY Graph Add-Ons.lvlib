@@ -90,13 +90,16 @@
 			<Item Name="XY Graph Set Tool Panels Visibility.vi" Type="VI" URL="../XY Graph Set Tool Panels Visibility.vi"/>
 		</Item>
 		<Item Name="X Scales Grid Colors" Type="Folder">
+			<Item Name="XY Graph Get X Scale Number.vi" Type="VI" URL="../XY Graph Get X Scale Number.vi"/>
 			<Item Name="XY Graph Get X Scales Grid Colors.vi" Type="VI" URL="../XY Graph Get X Scales Grid Colors.vi"/>
 			<Item Name="XY Graph Set X Scales Grid Colors.vi" Type="VI" URL="../XY Graph Set X Scales Grid Colors.vi"/>
 		</Item>
 		<Item Name="Y Scales Grid Colors" Type="Folder">
+			<Item Name="XY Graph Get Y Scale Number.vi" Type="VI" URL="../XY Graph Get Y Scale Number.vi"/>
 			<Item Name="XY Graph Get Y Scales Grid Colors.vi" Type="VI" URL="../XY Graph Get Y Scales Grid Colors.vi"/>
 			<Item Name="XY Graph Set Y Scales Grid Colors.vi" Type="VI" URL="../XY Graph Set Y Scales Grid Colors.vi"/>
 		</Item>
+		<Item Name="XY Graph Is Plot Valid.vi" Type="VI" URL="../../../../../../Graphs/XY Graph/XY Graph Is Plot Valid.vi"/>
 	</Item>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
