@@ -1,0 +1,425 @@
+2021-11-08 (XM)
+- Added Pre-distribution build VI to save .lvproj, .ini and .ico files
+
+2021-10-19 (XM)
+- Improved SEPL Plot Names
+- Corrected round-off error when computing z_N[W](tau = 0)
+- Fixed missing Phasor Graph metadata bug
+- v0.4.1
+
+2021-10-18 (XM)
+- Refactoring of Gated Decay calculation
+- Icon updates
+- Looking into some possible calibration errors...
+
+2021-09-03 (XM)
+- Fixed settings update after refactoring
+
+2021-09-02 (XM)
+- Updates to allow reuse of SEPL parameter definitions in AlliGator
+
+2021-09-01 (XM)
+- Added decay truncation option (hidden as redundant)
+- Icon and VI name updates
+- Fixed confusing combination of options when computing Phasor Plot
+
+2021-08-24 (XM)
+- if the IRF/gate is user-defined, enforce using numerical calculation
+
+2021-06-11 (XM)
+- Updated XY Graph VIs
+
+2021-04-30 (XM)
+- fixed an erroneous error message when computing non square gates
+- Added Update Phasor Explorer Documentation.vi
+- v 0.3.1 released
+
+2021-04-15 (XM)
+- v 0.3 of Phasor Explorer Distribution & executable released
+- ReadTheDocs version of the manual released
+
+2021-04-09 (XM)
+- Fixes due to definition changes
+
+2021-04-08 (XM)
+- subVi-ed time-gated decay calculations
+
+2021-04-07 (XM)
+- Changed output value of out-of-bound user-defined gate function evaluation to NaN
+- Changed out-of-bound conditions to strictly out-of-bound
+- Renamed IRF parameter "Laser Period" to "IRF Period"
+- v 0.2.1
+
+2021-03-25 (XM)
+- refactoring of one Settings update for reuse in AlliGator
+
+2021-03-21 (XM)
+- Moved Abort Parallel Computation global to a separate VI for reuse
+- Split Phasor Plot Display into Computation and Display for reuse
+- Further modifications for reuse in AlliGator
+
+2021-03-20 (XM)
+- Rename Phasor Type.ctl to SEPL Type.ctl
+
+2021-03-19 (XM)
+- Fixed Phasor Explorer Gate Parameters visibility issues
+
+2021-03-17 (XM)
+- VI updates (LV request)
+- VI Icons and Names update 
+
+2021-02-19 (XM)
+- Apply normalization option to gate/IRF
+
+2021-01-10 (XM)
+- Added "Use Gate Step" option to set the gate width
+
+2020-12-21 (XM)
+- update
+
+2020-10-03 (XM)
+- Updated Notebook behavior
+- Corrected a bug which did not update detector parameters in the Settings window
+- Added Poisson Noise option
+
+2020-06-04 (XM)
+- Fixed a few UI issues
+- Released v 0.2
+
+2020-06-03 (XM)
+- Preparation for first release
+
+2020-05-29 (XM)
+- Fixed calculation of Dirac IRF & zero lifetime phasor
+
+2020-05-28 (XM)
+- minor fixes to gate calculations
+
+2020-05-27 (XM)
+- Modified formulas for finite-edge gates
+- Using T-periodic gate functions and single-period integration
+ 
+2020-05-25 (XM)
+- Updated UC tau ticks calculation for reuse in AlliGator
+
+2020-05-24 (XM)
+- Updated Time-Gated Phasor Shot Noise Simulations FP to account for controls update
+- Added Ticks option for UC
+
+2020-04-26 (XM)
+- Corrected bug in user-defined IRF phasor calculation
+- Fixed arc of circle fit
+
+2020-04-25 (XM)
+- Added Notebook output in Plot Editor to document editing steps
+
+2020-04-24 (XM)
+- Corrected a problem with Plot Editor Data Array editing
+
+2020-04-20 (XM)
+- Added option to treat the User-defined function as either a Gate Profile or an IRF
+
+2020-04-19 (XM)
+- Implementing calibration with UC_N[W]
+- Correcting user-defined gate calculation
+
+2020-04-18 (XM)
+- Added option to calibrate phasor with UC_N[W] (in Settings Window only)
+
+2020-04-16 (XM)
+- Circle fit plot limited to an arc
+
+2020-03-21 (XM)
+- Fixed Abort action in remaining tasks
+
+2020-03-15 (XM)
+- Further corrections to the numerical calculation of time-gated decays
+- Separate parameter "# Steps" for fixed step numerical integration algorithm (which overall appears more robust at short lifetimes)
+
+2020-03-14 (XM)
+- Added option to use fixed step or adaptive numerical integration
+- Corresponding parameter "Tuning" adjustable in Settings
+
+2020-03-13 (XM)
+- Fixed Settings saving/loading
+- Improved numerical calculation of gated decays
+
+2020-03-01 (XM)
+- Implemented analytical discrete phasor of square-gated PSED convolution with offset
+
+2020-02-28 (XM)
+- Implemented analytical discrete phasor of PSED convolution with offset
+
+2020-02-24 (XM)
+- Further Settings window mods & calculation corrections
+
+2020-02-23 (XM)
+- Changed Settings window logic
+- Fixed some calculation errors
+
+2020-02-22 (XM)
+- Fixed 0 IRF lifetime option
+- Implemented analytical phasor calculation for exponential IRF (to be debugged)
+
+2020-02-21 (XM)
+- Minor cosmetic changes
+
+2020-02-14 (XM)
+- edit to gated decay calculation for legibility purpose
+
+2020-02-08 (XM)
+- Implementation of analytical exponential IRF convolution for ungated and square gated decays
+
+2020-02-07 (XM)
+- Added "# Samples" parameters in Gate parameters options: number of sampling points used to compute the gated decays
+
+2020-02-06 (XM)
+- Added IRF parameter place holder
+- Computation of IRF & PSED convolution
+- Numerical Computation of square-gated decay
+- Implementation of gated decay for convolved IRF and decay
+
+2020-02-03 (XM)
+- upgraded to LV 2019
+- Corrected a bug in saving ini file for settings
+- fixed a bug in f* frequncy storage
+
+2020-01-28 (XM)
+- Changed formulas for Finite Edge (Tilted) Square Gates to allow no discontinuity in the derivatives
+
+2020-01-25 (XM)
+- Added "Fit to Circle" shortcut menu item for Phasor Plots
+- Corrected bug in the Phasor Plot calibration
+
+2020-01-24 (XM)
+- Corrected bug in Phasor Plot info Notebook output
+
+2020-01-23 (XM)
+- Fixed Graph metadata tool
+- Fixed bugs in some of the phasor formulas
+- Added a "# Gates" parameter for phasor calibration 
+
+2020-01-21 (XM)
+- Implemented a way to store lot metadata with the Graph using a Tag, rather than outside
+- started to implement current/original phase and modulus lifetime
+
+2020-01-20 (XM)
+- Added "Reverse Sawtooth Gate" option
+- Added Phasor Type (Continuous or Discrete) for Calibration
+- Corrected a few UI bugs
+
+2020-01-18 (XM)
+- Added Delta tau_phi option
+
+2020-01-14 (XM)
+- Fixed Plots to Preserve initialization
+
+2020-01-12 (XM)
+- Fixed a bug in Settings which prevented some parameters from updating in some cases
+- Changed "Use Natural Frequency" to "Use 1/N theta Frequency" and added Description to some parameters
+
+2020-01-11 (XM)
+- Debugged tipstrip and context menu actions
+
+2020-01-10 (XM)
+- Updated Action Engine to support default graph actions
+- Added tipstrips to Graphs
+
+2019-12-29/39 (XM)
+- Minor cosmetic fixes
+- Computation of z(Inf) for single point UC
+
+2019-12-28 (XM)
+- idem
+
+2019-12-27 (XM)
+- Further formula corrections
+
+2019-12-26 (XM)
+- Trying to fix some round-off errors for small tau in the Phasor Graph calculation
+
+2019-12-18 XM)
+- Fixed bugs in the two previous Study VIs
+
+2019-12-17 (XM)
+- added Mean Tau & Phase Tau Study
+- added Mean Tau (Z) Study (TBC)
+
+2019-11-30 (XM)
+- updated gate calculations
+
+2019-11-28 (XM)
+- Corrected and test gate formula
+- Gated decays need verification
+
+2019-11-27 (XM)
+- Added Finite Edge square gate & Finite Edge, Tilted Top square gate
+
+2019-06-03 (XM)
+- Added options for # Photons scaling with gate width
+
+2019-06-02 (XM)
+- Fixed a bug in the dispatching of photons in gates
+
+2019-05-21 (XM)
+- GUI for Phase Lifetime & SDV Study.vi
+- Added tau(W) study
+
+2019-05-19 (XM)
+- Implemented siulation of periodic decay photons
+- Study of phase lifetime SDV as a function of # photons (Phase Lifetime SDV Study.vi)
+
+2019-04-10 (XM)
+- update to Graph handling functions
+
+2018-12-21 (XM)
+- Debugged Settings Window
+
+2018-12-20 (XM)
+- Started migrating to a more conventional UI
+
+2018-12-19 (XM)
+- Correct calculation of z_N[W](0) with offset
+- Implemented calculation of phase/modulus lifetime with calibration
+- Corrected a bug in Clear Phasor Graph (associated data was not correctly updated)
+
+2018-12-18 (XM)
+- Improved resolution of phasor UC calculation
+- Implemented phase/modulus lifetime for canonical UC
+- Improved phase/modulus lifetime calculation in corner cases
+
+2018-12-12 (XM)
+- Added analytical computation of tau = 0 phasor (and tau = Inf)
+
+2018-12-11 (XM)
+- Implemented tau_phi and tau_m calculations in the presence of offset
+
+2018-12-10 (XM)
+- Migrated to LV 2018 SP1
+
+2018-12-07 (XM)
+- Using EXT for direct sum calculation
+- Added Set Style of Selected Plot menu item
+
+2018-12-06 (XM)
+- Started adding Notebook support throughout
+
+2018-12-05 (XM)
+- Improved handling of linked parameters, as  well as direct sum vs analytical formula cases
+
+2018-12-04 (XM)
+- Giving up on analytical expression for the general square-gated phasor
+
+2018-12-03 (XM)
+- Added message string and busy icon
+- Tab changes in TOC are applied immediately
+- Further edits to the discrete square-gated phasor
+
+2018-12-02 (XM)
+- Implemented numerical calculation of time-gated decay for triangle, sawtooth and user-defined gates
+
+2018-12-01 (XM)
+- Added definitions and plotting of non-square gates
+- Added Plot Editor to define user-defined gates
+
+2018-11-30 (XM)
+- rotation offset subVI added
+
+2018-11-29 (XM)
+- Added option to adjust Gate Step or # Gates to match Laser Period
+
+2018-11-27 (XM)
+- Added check on small gate values for direct sum phasor computation rejection
+- Implemented discrete phasor of square-gated decay with offset (to be debugged)
+
+2018-11-26 (XM)
+- Analytical formula for continuous phasor of square-gated decay with offset
+- Changed UI: use TOC to access different tabs
+
+2018-11-25 (XM)
+- Reorganized UI
+- Added analytical formula for discrete phasor of ungated decay with offset
+
+2018-11-21 (XM)
+- final test of UC intersections
+
+2018-11-20 (XM)
+- Intersection of UC for continuous, discrete and gated
+
+2018-11-16 (XM)
+- corrections of a few VIs.
+
+2018-11-15 (XM)
+- Implemented tau_phi, tau_m calculation at cursor location (plot-linked or free)
+
+2018-11-14 (XM)
+- Moved to separate project
+- Switched to Producer/Consumer architecture
+
+2018-11-11 (XM)
+- Implemented and tested new formula for z_n,N,W
+
+2018-11-06 (XM)
+- Testing some formulas
+
+2018-11-04 (XM)
+- Added tau* output on PUC explorer FP
+- Study of discrete gated phasor started
+
+2018-11-02 (XM)
+- Computation of locus of max s
+
+2018-10-26 (XM)
+- Cosmetic code edits
+
+2018-10-25 (XM)
+- Implemented saturation effects in all functions.
+
+2018-10-24 (XM)
+- Added F (gating) and I (decay) parameters for pile-up effect study
+
+2018-10-23 (XM)
+- Added Gated Signal Correction Test.vi
+
+2018-10-19 (XM)
+- Added different solution to the background calculation for 1-Exp decays
+- Note: implementation of photon-counting detectors simulation still pending
+
+2018-10-18 (XM)
+- Added calculation of real signal as a function of observed signal for time-gated photon-counting device (SwissSPAD)
+
+2018-10-17 (XM)
+- Simpler formula used for time-gated decay calculation
+
+2018-10-11 (XM)
+- Test of non standard decays
+
+2018-10-10 (XM)
+- Added calculated Background and Estimated Lifetime from Gated Decay
+
+2018-10-09 (XM)
+- Corrected a bug with Graph contextual menus
+ 
+2018-10-03 (XM)
+- Debugged alpha vs beta calculation
+- Added "Pseudo-Phase Lifetime" graph tab
+
+2018-10-02 XM)
+- Added "Decay & Gates" graph tab
+- Added "Pseudo-UC Intersections" graph tab
+- Added "alpha vs beta" graph tab (calibration to be debugged)
+
+2018-10-01 (XM)
+- Extended range of validity of gate calculation to cover all cases
+
+2018-09-30 (XM)
+- Corrected a bug in prefactor of gate array calculation
+- Added output Phasor Parameters to Clipboard
+- Added Sum of Gates graph
+
+2018-09-28 (XM)
+- Added option to start gates at arbitrary location in period & use gate center for phasor calculation (and decay representation)
+- GUI improvements
+
+2018-09-26 (XM)
+- Implemented new computation of time-gated phasor calculation for 1-Exp decay with offset.

@@ -6,7 +6,7 @@ Phasor Explorer is a simple tool to explore the phasor plot of gated single-expo
 
 * This repository contains the LabVIEW source code for Phasor Explorer, as well as installers for the current and past
 standalone versions of the software (in the *installer* folder) and the source files for the documentation (in the *docs* folder). The documentation can be read on ReadTheDocs at https://phasor-explorer-distribution.readthedocs.io/
-* Version: 0.3.1
+* Version: 0.4.1.1
 
 ### How do I get set up? ###
 

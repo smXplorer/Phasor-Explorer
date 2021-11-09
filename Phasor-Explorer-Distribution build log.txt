@@ -1,4 +1,4 @@
-11/8/2021 4:11:21 PM
+11/8/2021 4:38:58 PM
 [General]
 Project: D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\Phasor\Phasor Explorer.lvproj
 Target: My Computer
@@ -15,7 +15,7 @@ D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\Rich Text Box\Rich Text Box.lvlib
 D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\Graphs\XY Graph\XY Graph Add-Ons.lvlib	9/25/2021 4:47:39 PM	1.0.0.0
 D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\Variant\Variant to Data\Variant to Data.lvlib	6/30/2020 6:46:36 PM	1.0.0.0
 D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\Graphs\Plot Editor\Plot Editor.lvlib	5/23/2020 11:18:45 AM	1.0.0.0
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\Histograms\Histogram Window.lvlib	11/8/2021 4:02:03 PM	1.0.0.0
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\Histograms\Histogram Window.lvlib	11/8/2021 4:13:12 PM	1.0.0.0
 D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\Phasor\Phasor Explorer Changelog.txt	11/8/2021 3:39:50 PM
 D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\Notebook\Notebook.rtm	9/27/2021 7:57:31 AM
 D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\Phasor\PhXP Settings.rtm	12/20/2018 7:23:33 PM
@@ -544,537 +544,537 @@ D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\Error\Get Best Case Error.vi	7/25
 D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\Graphs\Plot Style Selector\Load-Save Color Lists.vi	7/25/2021 10:41:33 AM	2
 
 [Output Files]
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer.vi	11/8/2021 4:12:26 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Notebook.lvlib	11/8/2021 4:12:14 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Rich Text Box.lvlib	11/8/2021 4:12:14 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer.vi	11/8/2021 4:39:57 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Notebook.lvlib	11/8/2021 4:39:44 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Rich Text Box.lvlib	11/8/2021 4:39:44 PM
 D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Changelog.txt	11/8/2021 3:39:50 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Build Window Title.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Close Notebook Window Action.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Export XY Graph Image to Notebook.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Init Notebook Rich Text Box.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Is Calling VI Running.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Load Rich Text Notebook.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Notebook Content Storage.vi	11/8/2021 4:12:23 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Build Window Title.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Close Notebook Window Action.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Export XY Graph Image to Notebook.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Init Notebook Rich Text Box.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Is Calling VI Running.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Load Rich Text Notebook.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Notebook Content Storage.vi	11/8/2021 4:39:53 PM
 D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Notebook.rtm	9/27/2021 7:57:31 AM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Save Notebook Before Opening One.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Save Notebook Rich Text Box.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Delete Notebook Backup on Quit.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Get Notebook Queue.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Notebook Action List.ctl	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Notebook Action Q Element.ctl	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Notebook Saved Global.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Notebook Shortcuts.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Notebook.vi	11/8/2021 4:12:26 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Send Error to Notebook.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Send Message to Notebook.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Send Start-Stop Message.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Send XY Graph to Notebook (Optional).vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Set-Get Calling VI Name.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Append Image to Rich Text Box.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Append Text to Rich Text Box.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Formatted Text.ctl	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Set New Selection to End.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Set RTB Selection Font Size.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Set RTB Selection Font.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Set RTB Selection Text Alignmentvi.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Set RTB Selection Text Background Color.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Set RTB Selection Text Color.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Set RTB Selection Text Style.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Text Colors.ctl	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Text Formatting.ctl	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Text Style.ctl	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Error Style.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Message Style.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Result Style.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Warning Style.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Decay & Gates Options.ctl	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Phasor Plot Info.ctl	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\SEPL Parameters.ctl	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Display Parameters.ctl	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Type of Series.ctl	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Phasor Parameters.ctl	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Calculation Type.ctl	11/8/2021 4:12:14 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\SEPL Type.ctl	11/8/2021 4:12:14 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Decay Parameters.ctl	11/8/2021 4:12:14 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\IRF Model.ctl	11/8/2021 4:12:14 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Gate Parameters.ctl	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Gate Type.ctl	11/8/2021 4:12:14 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Type of User-defined Function.ctl	11/8/2021 4:12:14 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Detector Parameters.ctl	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Q [Element].ctl	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Q [Event] List.ctl	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Internal Variables.ctl	11/8/2021 4:12:26 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Plot Data.ctl	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Plot Properties.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Event.ctl	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Add-Ons.lvlib	11/8/2021 4:12:14 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Cursor Info.ctl	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Linear Ramp End Options.ctl	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\SEPXP Globals.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Queue.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Tipstrip\XY Graph Multiple TipStrip Event Registration.vi	11/8/2021 4:12:26 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Refnum.ctl	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Tipstrip\XY Graph TipStrip Event Registration.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer [Event Registration Refnum] to Cluster.vi	11/8/2021 4:12:26 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Tipstrip Event Registration Refnums.ctl	11/8/2021 4:12:26 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor_Abort Parallel Computation.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\Is XY Graph Special Event.vi	11/8/2021 4:12:26 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Menu Items.ctl	11/8/2021 4:12:26 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Tipstrip\XY Graph Tipstrip Mouse Enter.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Tipstrip\XY Graph Tipstrip Mouse Leave.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set TipStrip Visible.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Property Tag List.ctl	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get TipStrip Refnum.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\LV Tools\Get Control Refnums by Names.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Tipstrip\XY Graph TipStrip Mouse Move.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Get Plot at Mouse Click (XY Graph)\Get Plot at Mouse Click [AAC].vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Caption (or Label).vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Get Plot at Mouse Click (XY Graph)\Get Plot at Mouse Click in Legend.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Get Plot at Mouse Click (XY Graph)\Get Plot at Mouse Click in Plot Area [AAC].vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Get Plot at Mouse Click (XY Graph)\Check wether Click is in Plot Area.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Number of Plots.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set TipStrip String.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\GUI\Constrain Object into Pane.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Quit Dialog.vi	11/8/2021 4:12:26 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\GUI\Two Buttons Dialog Window.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\GUI\Resize Message String & Dialog Window.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Buttons\Resize Button to Fit Text.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Error\Clear Error.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Files\Save File Dialog with Overwrite Option.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Time\Current Date & Time String.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\LV Tools\Run Vi.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Variant\Variant to Data\Variant to Path.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Variant\Variant to Data\Variant to Data.lvlib	11/8/2021 4:12:14 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Variant\Variant to Data\Variant to Boolean.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Settings Window.vi	11/8/2021 4:12:26 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Save Notebook Before Opening One.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Save Notebook Rich Text Box.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Delete Notebook Backup on Quit.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Get Notebook Queue.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Notebook Action List.ctl	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Notebook Action Q Element.ctl	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Notebook Saved Global.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Notebook Shortcuts.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Notebook.vi	11/8/2021 4:39:57 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Send Error to Notebook.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Send Message to Notebook.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Send Start-Stop Message.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Send XY Graph to Notebook (Optional).vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Notebook\Set-Get Calling VI Name.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Append Image to Rich Text Box.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Append Text to Rich Text Box.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Formatted Text.ctl	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Set New Selection to End.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Set RTB Selection Font Size.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Set RTB Selection Font.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Set RTB Selection Text Alignmentvi.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Set RTB Selection Text Background Color.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Set RTB Selection Text Color.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Set RTB Selection Text Style.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Text Colors.ctl	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Text Formatting.ctl	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Text Style.ctl	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Error Style.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Message Style.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Result Style.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Rich Text Box\Warning Style.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Decay & Gates Options.ctl	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Phasor Plot Info.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\SEPL Parameters.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Display Parameters.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Type of Series.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Phasor Parameters.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Calculation Type.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\SEPL Type.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Decay Parameters.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\IRF Model.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Gate Parameters.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Gate Type.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Type of User-defined Function.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Detector Parameters.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Q [Element].ctl	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Q [Event] List.ctl	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Internal Variables.ctl	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Plot Data.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Plot Properties.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Event.ctl	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Add-Ons.lvlib	11/8/2021 4:39:44 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Cursor Info.ctl	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Linear Ramp End Options.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\SEPXP Globals.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Queue.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Tipstrip\XY Graph Multiple TipStrip Event Registration.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Refnum.ctl	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Tipstrip\XY Graph TipStrip Event Registration.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer [Event Registration Refnum] to Cluster.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Tipstrip Event Registration Refnums.ctl	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor_Abort Parallel Computation.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\Is XY Graph Special Event.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Menu Items.ctl	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Tipstrip\XY Graph Tipstrip Mouse Enter.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Tipstrip\XY Graph Tipstrip Mouse Leave.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set TipStrip Visible.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Property Tag List.ctl	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get TipStrip Refnum.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\LV Tools\Get Control Refnums by Names.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Tipstrip\XY Graph TipStrip Mouse Move.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Get Plot at Mouse Click (XY Graph)\Get Plot at Mouse Click [AAC].vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Caption (or Label).vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Get Plot at Mouse Click (XY Graph)\Get Plot at Mouse Click in Legend.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Get Plot at Mouse Click (XY Graph)\Get Plot at Mouse Click in Plot Area [AAC].vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Get Plot at Mouse Click (XY Graph)\Check wether Click is in Plot Area.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Number of Plots.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set TipStrip String.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\GUI\Constrain Object into Pane.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Quit Dialog.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\GUI\Two Buttons Dialog Window.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\GUI\Resize Message String & Dialog Window.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Buttons\Resize Button to Fit Text.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Error\Clear Error.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Files\Save File Dialog with Overwrite Option.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Time\Current Date & Time String.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\LV Tools\Run Vi.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Variant\Variant to Data\Variant to Path.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Variant\Variant to Data\Variant to Data.lvlib	11/8/2021 4:39:44 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Variant\Variant to Data\Variant to Boolean.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Settings Window.vi	11/8/2021 4:39:57 PM
 D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\PhXP Settings.rtm	12/20/2018 7:23:33 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Gate Parameter to Adjust.ctl	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Refresh Settings.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Control Label to PhXP Settings Element.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Settings List.ctl	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Settings Storage.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Update Parameters.vi	11/8/2021 4:12:26 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Update Phasor Calibration Options Visibility.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Update Gate Parameters Visibility v2.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Update Decay & IRF Parameters.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Update Decay & IRF Parameters Visibility & Caption.vi	11/8/2021 4:12:14 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Update Gate Step & Number.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Check Type of Phasor Calculation.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Update Settings Storage.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\About Phasor Explorer.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Set Graph Properties.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Init.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Tool Panels Visibility.ctl	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set Max Legend Size.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Compute Plot Legend Size.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set Plots to Preserve.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Are Tool Panels Visible.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set Tool Panels Visibility.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set Plots Metadata.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Save-Load Settings.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\First Array Element\First Array Element [String].vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Files\Backup File or Folder.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Files\Create File on Error.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\strings\Parse Path String.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Init Phasor Explorer Settings.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Style Selector\Load-Save Color Lists.vi	11/8/2021 4:12:26 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Style Selector\Get-Set Color Array.vi	11/8/2021 4:12:14 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Get Harmonic Frequency.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Universal Semicircle Plot.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Get UC tick taus.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute UC Tau Tick (g, s) & (dg, ds).vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor (g, s).ctl	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Update UC Lifetimes.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Add Single Plot with Name.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\LabVIEW Plot Interpolation.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Point Style.ctl	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Plot Metadata Type.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Defer Owning VI Panel Update & Hide.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Plot Names & Number.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Plots Metadata.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\strings\Check for Names v2.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Max Legend Size.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Variant\Variant to Data\Variant to I32.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Update Plot.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set Plot Metdata.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Label.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor.vi	11/8/2021 4:12:26 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor.lvlib	11/8/2021 4:12:14 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor Q [Element].ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor Q [Event] List.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor Internal Variables.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Plot Data & Info.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get-Set Plot Style.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\GUI\Append Suffix to VI Name.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor_Data to Controls & Plot.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor_Data to Store.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor_Store to Controls.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor_Store to Plot.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor_Store to Plot Style.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor_Controls to Store.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Restore X & Scale Indices.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Update Plot & Style.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Save Plot.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Files\Modified File Dialog.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Load Plot(s) Event.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Files\ASCII File Header Definition.ctl	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Scale Labels.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Plot ASCII File Format Dialog.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Plot Number.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Load Plot(s) from ASCII File.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Scale Labels.ctl	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Time\High Resolution Timing.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Decode Plot Columns Header.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Axis Type.ctl	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\(Signed) Index 1D Array [String].vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Signed Array Index.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph Get Plot & Scale Strings.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Plot & Scale Strings v2.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Plot & Scale Arrays.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Load Single Column Plot from ASCII.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Get Plots Scale Indices.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Add Multiplots with Names.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\strings\Concacenate String Array.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\strings\Plural s.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Delete Plot.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Update Steps.ctl	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor_Plot to Data & Controls.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor_Remove out-of-bound Plot Values.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\Determine Clicked Array Element Index.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Determine Array and Scrollbar Properties.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Get Minimal Array Properties.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Determine Array Element Coordinates.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Calculate Gapped and Un-Gapped Coordinates.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Test For Array Element Gap.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Determine Index Values (1D or 2D Array).vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Calculate Scrollbar Edges.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Determine if Item Clicked.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Test For Error Code 1320.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Cancel Error Code 1320.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Variant\Variant to Data\Variant to String.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Remove NaN-containing Pairs.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Define Ramp Array Dialog.vi	11/8/2021 4:12:20 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Gate Parameter to Adjust.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Refresh Settings.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Control Label to PhXP Settings Element.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Settings List.ctl	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Settings Storage.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Update Parameters.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Update Phasor Calibration Options Visibility.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Update Gate Parameters Visibility v2.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Update Decay & IRF Parameters.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Update Decay & IRF Parameters Visibility & Caption.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Update Gate Step & Number.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Check Type of Phasor Calculation.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Update Settings Storage.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\About Phasor Explorer.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Set Graph Properties.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Init.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Tool Panels Visibility.ctl	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set Max Legend Size.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Compute Plot Legend Size.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set Plots to Preserve.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Are Tool Panels Visible.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set Tool Panels Visibility.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set Plots Metadata.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Save-Load Settings.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\First Array Element\First Array Element [String].vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Files\Backup File or Folder.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Files\Create File on Error.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\strings\Parse Path String.vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Init Phasor Explorer Settings.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Style Selector\Load-Save Color Lists.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Style Selector\Get-Set Color Array.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Get Harmonic Frequency.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Universal Semicircle Plot.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Get UC tick taus.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute UC Tau Tick (g, s) & (dg, ds).vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor (g, s).ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Explorer Update UC Lifetimes.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Add Single Plot with Name.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\LabVIEW Plot Interpolation.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Point Style.ctl	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Plot Metadata Type.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Defer Owning VI Panel Update & Hide.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Plot Names & Number.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Plots Metadata.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\strings\Check for Names v2.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Max Legend Size.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Variant\Variant to Data\Variant to I32.vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Update Plot.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set Plot Metdata.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Label.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor.vi	11/8/2021 4:39:57 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor.lvlib	11/8/2021 4:39:44 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor Q [Element].ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor Q [Event] List.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor Internal Variables.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Plot Data & Info.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get-Set Plot Style.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\GUI\Append Suffix to VI Name.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor_Data to Controls & Plot.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor_Data to Store.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor_Store to Controls.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor_Store to Plot.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor_Store to Plot Style.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor_Controls to Store.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Restore X & Scale Indices.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Update Plot & Style.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Save Plot.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Files\Modified File Dialog.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Load Plot(s) Event.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Files\ASCII File Header Definition.ctl	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Scale Labels.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Plot ASCII File Format Dialog.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Plot Number.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Load Plot(s) from ASCII File.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Scale Labels.ctl	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Time\High Resolution Timing.vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Decode Plot Columns Header.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Axis Type.ctl	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\(Signed) Index 1D Array [String].vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Signed Array Index.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph Get Plot & Scale Strings.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Plot & Scale Strings v2.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Plot & Scale Arrays.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Load Single Column Plot from ASCII.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Get Plots Scale Indices.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Add Multiplots with Names.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\strings\Concacenate String Array.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\strings\Plural s.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Delete Plot.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Update Steps.ctl	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor_Plot to Data & Controls.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor_Remove out-of-bound Plot Values.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\Determine Clicked Array Element Index.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Determine Array and Scrollbar Properties.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Get Minimal Array Properties.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Determine Array Element Coordinates.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Calculate Gapped and Un-Gapped Coordinates.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Test For Array Element Gap.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Determine Index Values (1D or 2D Array).vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Calculate Scrollbar Edges.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Determine if Item Clicked.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Test For Error Code 1320.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Cancel Error Code 1320.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Variant\Variant to Data\Variant to String.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Remove NaN-containing Pairs.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Define Ramp Array Dialog.vi	11/8/2021 4:39:50 PM
 D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor Menu.rtm	11/26/2019 12:16:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\User-defined Gate.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Buttons\Show Animated Busy Icon with Message and Abort Button.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\LV Tools\Get Control Refnum and Tab by Name.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute SEPL Wrapper.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Get Phasor Explorer Parameters.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute SEPL v2.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor SEPL Tick Data.ctl	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Calibration Data.ctl	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor L_N[W] Parameters.ctl	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Convert Decay & Gates Parameters.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Gate Definitions.ctl	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Decay Definiton.ctl	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Calibration Phasor & jw.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Convert (tau, f) to (jw, z).vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Calc\ix (DBL).vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Discrete Calibration Phasor & jw.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\z_N[Lambda_tau,T,t_0]_Analytical.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Calc\ix (EXT).vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Rotation due to Offset.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Square-Gated Discrete Calibration Phasor & jw.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\z_N[Lambda_tau,T,W,t_0]_Analytical.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\z_N[Lambda_0,T,W]_Analytical.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Gated Phasor.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Check Gate Calculation Type v2.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute 1-Exp Gate Array v2.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Photon-Counting Saturation Parameters.ctl	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Gate & Decay Parameters.ctl	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Check Gated Decay Calculation Flags.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Gated Decay (Fixed Integration Steps).vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\1D Quadrature Integrand for Gated Decay.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Gate-IRF Array.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\User-defined Gate function.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\T-Periodic Square Gate.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\T-Periodic Triangle Gate.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\T-Periodic Sawtooth Gate.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\T-Periodic Finite Edge Square Gate.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\T-Periodic Finite Edge Tilted Top Square Gate.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute 1-Exp Array.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Dirac Integrand for Gated Decay.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Error\Error Code to Error Cluster.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Gated Decay (Tolerance).vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Math\1D Quadrature (VI)\1D Quadrature (VI).vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Math\1D Quadrature (VI)\Lobatto Quadrature Core (VI).vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Math\1D Quadrature (VI)\Chop Integration Bins (VI).vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Math\1D Quadrature (VI)\Chop One Bin (VI).vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Math\1D Quadrature (VI)\Eval Function at Sampling Points (VI).vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Math\1D Quadrature (VI)\Lobatto Weights (4&7 order).vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Poisson Randomize Array.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\First Array Element\First Array Element [I32].vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Saturated Gate Image Array.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\f_p,L(y).vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\z[Lambda_tau,T,W,t_0]_Analytical.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\z_N[Psi_tau,tau_0,T,W,t_0]_Analytical.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\O(tau,tau_0,t_0)_Analytical.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\zeta_f(tau)_Analytical.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Lifetime Ramp.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Calibrated Phasor Array.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\(Un)Calibrate Phasor.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Add Ticks to SEPL.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute tau_phi & tau_m from Phasor.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute tau_phi & tau_m from Phasor (Discrete, Gated).vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\tau_phi & tau_m Zero Finder Parameters.ctl	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Zero Finder tau (Discrete, Gated Phasor).vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Find Unique Zero.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute tau_phi & tau_m from Phasor (Discrete, Ungated).vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute tau_phi & tau_m from Phasor (Continuous, Gated).vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Convert (g,s,f) to (tf, tm).vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor  Explorer SEPL Plot Name.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Time\Get CPU String.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Variant\Variant to Formatted String.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\strings\Convert Cluster INI String.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\strings\String Contains Quote(s).vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Clean up Phasor Parameters String.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Buttons\Hide Animated Busy Icon with Message and Abort Button.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Send PhXP Phasor Plot Info to Notebook.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Sum of Gates Plot Wrapper.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Sum of Gates Plot.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Get tau_i, tau_phi, tau_m at Cursor.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Decay & Time Gates Wrapper.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Gate Analysis Results.ctl	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Decay & Time Gates.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute 1-Exp Gate Array.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\1-Exp Decay Parameters from Gated Decay.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Find Root of f_W,T,D(x) = 0.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Square Gated 1-Exp Parameters.ctl	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Gated Phase Lifetime Plot Wrapper.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Gated Phase Lifetime Plot.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Update Identity Plot (P-Ph-tau Graph).vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Buttons\Show Animated Busy Icon.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Export Parameters to Clipboard Wrapper.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Buttons\Hide Animated Busy Icon.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute alpha(beta) Plot Wrapper.vi	11/8/2021 4:12:25 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute alpha(beta) Plot.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Linear Ramp by Number (CDB).vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Convert g & s Arrays to Phasor Array.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Find Intersections of Fitted Line with Universal Circle.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Convert Phasor Array to g & s Arrays.vi	11/8/2021 4:12:15 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Get Phasor Ratio.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Buttons\Show Animated Busy Icon with Message.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute f(tau) & Zeros Wrapper.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute f(tau) & Zeros.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Calc\Compute Linear Coefficients.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Plot f(tau).vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Convert SEPL Parameters.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Data for SEPL Intersections.ctl	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\f(tau) [SEPL Intersections].vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Lifetime at UC Intersection (gated).vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Lifetime at UC Intersection (discrete).vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Lifetime at UC Intersection (standard).vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Special Event Handler Wrapper.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Special Event Handler Core.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Fit Plot Request Information.ctl	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Fit Models.ctl	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Mouse Click Event Data.ctl	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\String to Fit Model.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Fit Model to Plot Wrapper.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Fit Settings.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Calc\Ramp Type.ctl	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Residual Type.ctl	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Non-linear Fitting Algorithm.ctl	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Get-Set 1D Fit Parameters.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\D-Only Fixed Parameters.ctl	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Fit Model to Plot v3.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\My Fit Stopping Criteria.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Get Fit Settings.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\N Components Additional Fit Settings.ctl	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Get Cursor Positions.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Gaussian\LM Gaussian and gradient.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Asymmetric Gaussian\LM Asymmetric Gaussian and gradient.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Lorentzian\LM Lorentzian and gradient.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Asymmetric Lorentzian\LM Asymmetric Lorentzian and gradient.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Gaussian-Lorentzian\LM Gaussian-Lorentzian and gradient.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Lorentzian-Gaussian\LM Lorentzian-Gaussian and gradient.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Gaussians\LM Two Gaussians and gradient.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Asymmetric Gaussians\LM Two Asymmetric Gaussians and gradient.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Connected Asymmetric Gaussians\LM Two H-Connected Asymmetric Gaussians and gradient.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Connected Asymmetric Gaussians\LM Two T-Connected Asymmetric Gaussians and gradient.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Connected Gaussians\LM Two H-Connected Gaussians and gradient.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Connected Gaussians\LM Two T-Connected Gaussians and gradient.vi	11/8/2021 4:12:24 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Three Gaussians\LM Three Gaussians and gradient.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Three Asymmetric Gaussians\LM Three Asymmetric Gaussians and gradient.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Single Exponential\LM Single Exponential and gradient.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\IRF(X)PSED\LM IRF(X)PSED and gradient v4.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\IRF(X)PSED\IRF(X)PSED Fourier Coefficients.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\IRF(X)PSED\IRF(X)PSED Fixed Parameters v3.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\IRF(X)PSED\IRF(X)PSED Extraction Options.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\IRF(X)PSED\Fourier Series Smoothing Option.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\IRF(X)PSED\Fourier Series Truncation.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\IRF(X)PSED\Get Optimal Fourier Order.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Double Exponential\LM Double Exponential and gradient.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\2D ACF\LM 2D Gaussian ACF and gradient.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\2D ACF\LM 2D Gaussian + Blinking ACF and gradient.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\2D ACF\LM 2D Gaussian + Flow ACF and gradient.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\3D ACF\LM 3D Gaussian ACF and gradient.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\3D ACF\LM 3D Gaussian + Blinking ACF and gradient.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\2D ACF\LM 2D Gaussian ACF + Flow and gradient (Global).vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Fit Model to Plot Core.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Get Plot to Fit Wrapper.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Get Plot to Fit.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Range.ctl	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Plot Interpolation.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Histogram Bin Position.ctl	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Plot Info & Clip Data.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Clip Plot Based on Graph Boundaries v2.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Plot Range.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Get Histogram Fit Axis v2.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Order Plot Axis.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Calc\Approximate Comparison Operators\[X] = X0 [DBL].vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Filter Histogram Values.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Histogram Window.lvlib	11/8/2021 4:12:14 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Compute Weight Array v2.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Remove Zeros By Interpolation [DBL].vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Calc\Mean of 2\half (x + y) [DBL].vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Replace Array Elements [DBL].vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Compute Guess Fit Parameters.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Gaussians\Two Gaussians Fit Guess Parameters.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Compute Histogram Halves Standard Deviations.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Histogram Mean & Standard Deviation.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Asymmetric Gaussians\Two Asymmetric Gaussians Fit Guess Parameters.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\N Asymmetric Gaussians Fit Guess Parameters.vi	11/8/2021 4:12:16 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Three Gaussians\3 Gaussians Fit Guess Parameters.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Compute Histogram Thirds Standard Deviations.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\IRF(X)PSED\IRF(X)PSED Guess Parameters v4.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Double Exponential\Double Exponential Guess Parameters.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\My Nonlinear Curve Fit LM bounds.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Fit Statistics.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Convergence Criteria.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\My Check Fit Convergence.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Abort Fit Global.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Get-Set NLLM Fit Status.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Non-linear Fit Status Data.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\My Nonlinear Curve Fit TR bounds.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Get Fit Plot Name.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Format Fit Output.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Gaussian\Gaussian Fit Results v2.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Asymmetric Gaussian\Asymmetric Gaussian Fit Results v2.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Lorentzian\Lorentzian Fit Results v2.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Asymmetric Lorentzian\Asymmetric Lorentzian Fit Results v2.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Gaussian-Lorentzian\Gaussian-Lorentzian Fit Results v2.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Lorentzian-Gaussian\Lorentzian-Gaussian Fit Results v2.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Connected Gaussians\Two H-Connected Gaussians Fit Parameters.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Connected Gaussians\Two T-Connected Gaussians Fit Parameters.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Connected Asymmetric Gaussians\Two H-Connected Asymmetric Gaussians Fit Parameters.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Connected Asymmetric Gaussians\Two T-Connected Asymmetric Gaussians Fit Parameters.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Single Exponential\Single Exponential Fit Parameters v2.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\IRF(X)PSED\IRF(X)PSED Fit Parameters.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Double Exponential\Double Exponential Fit Parameters v2.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\2D ACF\2D Gaussian ACF Fit Results.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\2D ACF\2D Gaussian + Blinking ACF Fit Results.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\2D ACF\2D Gaussian + Flow ACF Fit Results.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\3D ACF\3D Gaussian ACF Fit Results.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\3D ACF\3D Gaussian + Blinking ACF Fit Results.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\2D ACF\2D Gaussian ACF & 2D Gaussian ACF + Flow Fit Results.ctl	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Format Sum of Gaussians Fit Parameters.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Format Sum of Asymmetric Gaussians Fit Parameters.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Compute Fit Curve v4.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\IRF(X)PSED\Compute IRF(X)PSED Fitted Plot.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\My Nonlinear Curve Fit TRDL bounds.vi	11/8/2021 4:12:26 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Error\Get Best Case Error.vi	11/8/2021 4:12:26 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Get Fit Parameter Names, Values & Uncertainties.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Decode Fit Parameter Names & Values.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Variant\Variant to Data\Variant to DBL.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Variant\Variant to Data\Variant to [DBL].vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Get Fit Results String.vi	11/8/2021 4:12:17 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor Asynchronous Call.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Build XY Plot Histogram (Core).vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Linear Histogram Options.ctl	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Plot Histogram.ctl	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Style 3.ctl	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Histogram Window Q Element v2.ctl	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Histogram Window Q Action v2.ctl	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Data Statistics.ctl	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Histogram Bin Size Definition Dialog.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Histogram Window.vi	11/8/2021 4:12:26 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\AlliGator Q Element.ctl	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\AlliGator Q Event.ctl	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Updated Plot Info.ctl	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Histogram Window Specific Actions.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Histogram Window Internal Variables.ctl	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Get Last Plot Fit Data.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Variant\Variant to Data\Variant to [I32].vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Rebin Histogram with Dialog.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Bin Size Dialog.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Invert Histogram.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Check-Uncheck Menu Items.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Click Location.ctl	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Is Grid Hidden.vi	11/8/2021 4:12:18 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\User-defined Gate.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Buttons\Show Animated Busy Icon with Message and Abort Button.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\LV Tools\Get Control Refnum and Tab by Name.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute SEPL Wrapper.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Get Phasor Explorer Parameters.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute SEPL v2.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor SEPL Tick Data.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Calibration Data.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor L_N[W] Parameters.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Convert Decay & Gates Parameters.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Gate Definitions.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Decay Definiton.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Calibration Phasor & jw.vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Convert (tau, f) to (jw, z).vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Calc\ix (DBL).vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Discrete Calibration Phasor & jw.vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\z_N[Lambda_tau,T,t_0]_Analytical.vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Calc\ix (EXT).vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor Rotation due to Offset.vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Square-Gated Discrete Calibration Phasor & jw.vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\z_N[Lambda_tau,T,W,t_0]_Analytical.vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\z_N[Lambda_0,T,W]_Analytical.vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Gated Phasor.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Check Gate Calculation Type v2.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute 1-Exp Gate Array v2.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Photon-Counting Saturation Parameters.ctl	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Gate & Decay Parameters.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Check Gated Decay Calculation Flags.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Gated Decay (Fixed Integration Steps).vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\1D Quadrature Integrand for Gated Decay.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Gate-IRF Array.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\User-defined Gate function.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\T-Periodic Square Gate.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\T-Periodic Triangle Gate.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\T-Periodic Sawtooth Gate.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\T-Periodic Finite Edge Square Gate.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\T-Periodic Finite Edge Tilted Top Square Gate.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute 1-Exp Array.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Dirac Integrand for Gated Decay.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Error\Error Code to Error Cluster.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Gated Decay (Tolerance).vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Math\1D Quadrature (VI)\1D Quadrature (VI).vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Math\1D Quadrature (VI)\Lobatto Quadrature Core (VI).vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Math\1D Quadrature (VI)\Chop Integration Bins (VI).vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Math\1D Quadrature (VI)\Chop One Bin (VI).vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Math\1D Quadrature (VI)\Eval Function at Sampling Points (VI).vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Math\1D Quadrature (VI)\Lobatto Weights (4&7 order).vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Poisson Randomize Array.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\First Array Element\First Array Element [I32].vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Saturated Gate Image Array.vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\f_p,L(y).vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\z[Lambda_tau,T,W,t_0]_Analytical.vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\z_N[Psi_tau,tau_0,T,W,t_0]_Analytical.vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\O(tau,tau_0,t_0)_Analytical.vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\zeta_f(tau)_Analytical.vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Lifetime Ramp.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Calibrated Phasor Array.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\(Un)Calibrate Phasor.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Add Ticks to SEPL.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute tau_phi & tau_m from Phasor.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute tau_phi & tau_m from Phasor (Discrete, Gated).vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\tau_phi & tau_m Zero Finder Parameters.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Zero Finder tau (Discrete, Gated Phasor).vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Find Unique Zero.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute tau_phi & tau_m from Phasor (Discrete, Ungated).vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute tau_phi & tau_m from Phasor (Continuous, Gated).vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Convert (g,s,f) to (tf, tm).vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Phasor  Explorer SEPL Plot Name.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Time\Get CPU String.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Variant\Variant to Formatted String.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\strings\Convert Cluster INI String.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\strings\String Contains Quote(s).vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Clean up Phasor Parameters String.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Buttons\Hide Animated Busy Icon with Message and Abort Button.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Send PhXP Phasor Plot Info to Notebook.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Sum of Gates Plot Wrapper.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Sum of Gates Plot.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Get tau_i, tau_phi, tau_m at Cursor.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Decay & Time Gates Wrapper.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Gate Analysis Results.ctl	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Decay & Time Gates.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute 1-Exp Gate Array.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\1-Exp Decay Parameters from Gated Decay.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Find Root of f_W,T,D(x) = 0.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Square Gated 1-Exp Parameters.ctl	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Gated Phase Lifetime Plot Wrapper.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute Gated Phase Lifetime Plot.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Update Identity Plot (P-Ph-tau Graph).vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Buttons\Show Animated Busy Icon.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Export Parameters to Clipboard Wrapper.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Buttons\Hide Animated Busy Icon.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute alpha(beta) Plot Wrapper.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute alpha(beta) Plot.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Linear Ramp by Number (CDB).vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Convert g & s Arrays to Phasor Array.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Find Intersections of Fitted Line with Universal Circle.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Convert Phasor Array to g & s Arrays.vi	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Get Phasor Ratio.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Buttons\Show Animated Busy Icon with Message.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute f(tau) & Zeros Wrapper.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Compute f(tau) & Zeros.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Calc\Compute Linear Coefficients.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Plot f(tau).vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Convert SEPL Parameters.vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Data for SEPL Intersections.ctl	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\f(tau) [SEPL Intersections].vi	11/8/2021 4:39:55 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Lifetime at UC Intersection (gated).vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Lifetime at UC Intersection (discrete).vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Lifetime at UC Intersection (standard).vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Special Event Handler Wrapper.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Special Event Handler Core.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Fit Plot Request Information.ctl	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Fit Models.ctl	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Mouse Click Event Data.ctl	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\String to Fit Model.vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Fit Model to Plot Wrapper.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Fit Settings.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Calc\Ramp Type.ctl	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Residual Type.ctl	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Non-linear Fitting Algorithm.ctl	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Get-Set 1D Fit Parameters.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\D-Only Fixed Parameters.ctl	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Fit Model to Plot v3.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\My Fit Stopping Criteria.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Get Fit Settings.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\N Components Additional Fit Settings.ctl	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Get Cursor Positions.vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Gaussian\LM Gaussian and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Asymmetric Gaussian\LM Asymmetric Gaussian and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Lorentzian\LM Lorentzian and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Asymmetric Lorentzian\LM Asymmetric Lorentzian and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Gaussian-Lorentzian\LM Gaussian-Lorentzian and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Lorentzian-Gaussian\LM Lorentzian-Gaussian and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Gaussians\LM Two Gaussians and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Asymmetric Gaussians\LM Two Asymmetric Gaussians and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Connected Asymmetric Gaussians\LM Two H-Connected Asymmetric Gaussians and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Connected Asymmetric Gaussians\LM Two T-Connected Asymmetric Gaussians and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Connected Gaussians\LM Two H-Connected Gaussians and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Connected Gaussians\LM Two T-Connected Gaussians and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Three Gaussians\LM Three Gaussians and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Three Asymmetric Gaussians\LM Three Asymmetric Gaussians and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Single Exponential\LM Single Exponential and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\IRF(X)PSED\LM IRF(X)PSED and gradient v4.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\IRF(X)PSED\IRF(X)PSED Fourier Coefficients.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\IRF(X)PSED\IRF(X)PSED Fixed Parameters v3.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\IRF(X)PSED\IRF(X)PSED Extraction Options.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\IRF(X)PSED\Fourier Series Smoothing Option.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\IRF(X)PSED\Fourier Series Truncation.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\IRF(X)PSED\Get Optimal Fourier Order.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Double Exponential\LM Double Exponential and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\2D ACF\LM 2D Gaussian ACF and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\2D ACF\LM 2D Gaussian + Blinking ACF and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\2D ACF\LM 2D Gaussian + Flow ACF and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\3D ACF\LM 3D Gaussian ACF and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\3D ACF\LM 3D Gaussian + Blinking ACF and gradient.vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\2D ACF\LM 2D Gaussian ACF + Flow and gradient (Global).vi	11/8/2021 4:39:54 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Fit Model to Plot Core.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Get Plot to Fit Wrapper.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Get Plot to Fit.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Range.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Plot Interpolation.vi	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Histogram Bin Position.ctl	11/8/2021 4:39:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Plot Info & Clip Data.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Clip Plot Based on Graph Boundaries v2.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Plot Range.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Get Histogram Fit Axis v2.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Order Plot Axis.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Calc\Approximate Comparison Operators\[X] = X0 [DBL].vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Filter Histogram Values.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Histogram Window.lvlib	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Compute Weight Array v2.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Remove Zeros By Interpolation [DBL].vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Calc\Mean of 2\half (x + y) [DBL].vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Replace Array Elements [DBL].vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Compute Guess Fit Parameters.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Gaussians\Two Gaussians Fit Guess Parameters.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Compute Histogram Halves Standard Deviations.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Histogram Mean & Standard Deviation.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Asymmetric Gaussians\Two Asymmetric Gaussians Fit Guess Parameters.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\N Asymmetric Gaussians Fit Guess Parameters.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Three Gaussians\3 Gaussians Fit Guess Parameters.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Compute Histogram Thirds Standard Deviations.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\IRF(X)PSED\IRF(X)PSED Guess Parameters v4.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Double Exponential\Double Exponential Guess Parameters.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\My Nonlinear Curve Fit LM bounds.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Fit Statistics.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Convergence Criteria.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\My Check Fit Convergence.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Abort Fit Global.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Get-Set NLLM Fit Status.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Non-linear Fit Status Data.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\My Nonlinear Curve Fit TR bounds.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Get Fit Plot Name.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Format Fit Output.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Gaussian\Gaussian Fit Results v2.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Asymmetric Gaussian\Asymmetric Gaussian Fit Results v2.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Lorentzian\Lorentzian Fit Results v2.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Asymmetric Lorentzian\Asymmetric Lorentzian Fit Results v2.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Gaussian-Lorentzian\Gaussian-Lorentzian Fit Results v2.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Lorentzian-Gaussian\Lorentzian-Gaussian Fit Results v2.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Connected Gaussians\Two H-Connected Gaussians Fit Parameters.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Connected Gaussians\Two T-Connected Gaussians Fit Parameters.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Connected Asymmetric Gaussians\Two H-Connected Asymmetric Gaussians Fit Parameters.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Two Connected Asymmetric Gaussians\Two T-Connected Asymmetric Gaussians Fit Parameters.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Single Exponential\Single Exponential Fit Parameters v2.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\IRF(X)PSED\IRF(X)PSED Fit Parameters.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Double Exponential\Double Exponential Fit Parameters v2.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\2D ACF\2D Gaussian ACF Fit Results.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\2D ACF\2D Gaussian + Blinking ACF Fit Results.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\2D ACF\2D Gaussian + Flow ACF Fit Results.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\3D ACF\3D Gaussian ACF Fit Results.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\3D ACF\3D Gaussian + Blinking ACF Fit Results.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\ACF-CCF\2D ACF\2D Gaussian ACF & 2D Gaussian ACF + Flow Fit Results.ctl	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Format Sum of Gaussians Fit Parameters.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Format Sum of Asymmetric Gaussians Fit Parameters.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Compute Fit Curve v4.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\IRF(X)PSED\Compute IRF(X)PSED Fitted Plot.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\My Nonlinear Curve Fit TRDL bounds.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Error\Get Best Case Error.vi	11/8/2021 4:39:56 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Get Fit Parameter Names, Values & Uncertainties.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Decode Fit Parameter Names & Values.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Variant\Variant to Data\Variant to DBL.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Variant\Variant to Data\Variant to [DBL].vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Get Fit Results String.vi	11/8/2021 4:39:47 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Editor\Plot Editor Asynchronous Call.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Build XY Plot Histogram (Core).vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Linear Histogram Options.ctl	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Plot Histogram.ctl	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Style 3.ctl	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Histogram Window Q Element v2.ctl	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Histogram Window Q Action v2.ctl	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Data Statistics.ctl	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Histogram Bin Size Definition Dialog.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Histogram Window.vi	11/8/2021 4:39:57 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\AlliGator Q Element.ctl	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\AlliGator Q Event.ctl	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Updated Plot Info.ctl	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Histogram Window Specific Actions.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Histogram Window Internal Variables.ctl	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Get Last Plot Fit Data.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Variant\Variant to Data\Variant to [I32].vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Rebin Histogram with Dialog.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Bin Size Dialog.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Invert Histogram.vi	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Check-Uncheck Menu Items.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Click Location.ctl	11/8/2021 4:39:48 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Is Grid Hidden.vi	11/8/2021 4:39:48 PM
 D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Histogram Window.rtm	6/7/2021 6:18:06 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Calc\Double Histogram (G) v2.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Array Statistics.ctl	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Calc\Conditional Add 1.llb\Conditional Add 1 [I32].vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\GUI\Dialog Window with Option.vi	11/8/2021 4:12:18 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Send Data Statistics to Notebook.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Select Plots... Event.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Get Plot Name Format String.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\strings\String Match Format.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Get Multiplot Action Message.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Select All Plots Event.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Invert Plots Selection Event.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Style Chooser Dialog.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Color Chooser Update.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Get Single Plot Style.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Single Plot Style 2.ctl	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Get Color List Element.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Set Waveform Graph Plot Style.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Style Settings Step.ctl	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Style Selector\Point or Line Color List.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Edit Color List Dialog.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set Style of Selected Plots.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Selected Plots.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Plots to Preserve.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set Plot Style.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Graph Axes Chooser Dialog.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Delete Plot Event.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Delete Selected Plots Event.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Slice Index Array in Contiguous Chunks.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Array Delta [I32].vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Delete Successive Plots.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Check Index Ramp.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Clear Event.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Linear Ramp [I32].vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Save Plot Event.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Save Selected Plots Event.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Compare X Array.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\strings\Remove n final characters.vi	11/8/2021 4:12:19 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Transpose Plot Event.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Sum Selected Plots Event.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\Compare New Plot and Sum X Arrays.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\Axis Differences.ctl	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\Check X Arrays Compatibility.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Remove (Almost) Duplicates from 1D Array (DBL).vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Calc\Binary (Approximate) Search 1D Array (DBL).vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Calc\x = y (+-epsilon) [DBL].vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Add Plot to Sum.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Compute Simple Plot Formula Event.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\GUI\Get Formula String Dialog.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Interpolate Plot Event.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Compute Complex Plot Formula Event.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\GUI\Get 2-variable Formula String Dialog.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\Compute (f,g)(X,Y) Arrays.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Show-Hide Grid Event.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Show-Hide Grid.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get X Scale Number.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Y Scale Number.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set Y Scales Grid Colors.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set X Scales Grid Colors.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Y Scales Grid Colors.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get X Scales Grid Colors.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Show-Hide Tool Panels Event.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Show-Hide Tool Panels.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Tool Panels Visibility.vi	11/8/2021 4:12:20 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Circle Fit\Fit Plot to Circle.vi	11/8/2021 4:12:22 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Circle Fit\Fit Points to Circle.vi	11/8/2021 4:12:21 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Circle Fit\Fitted Circle Parameters.ctl	11/8/2021 4:12:14 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Sound\System Sounds List.ctl	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Error\Error to String.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\strings\Search and Replace Multiple Patterns.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Sound\Play System Sound.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\LV Tools\Is Runtime Application.vi	11/8/2021 4:12:23 PM
-D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\LV Tools\Close & Abort VIs.vi	11/8/2021 4:12:23 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Calc\Double Histogram (G) v2.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Array Statistics.ctl	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Calc\Conditional Add 1.llb\Conditional Add 1 [I32].vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\GUI\Dialog Window with Option.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Histograms\Send Data Statistics to Notebook.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Select Plots... Event.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Get Plot Name Format String.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\strings\String Match Format.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Get Multiplot Action Message.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Select All Plots Event.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Invert Plots Selection Event.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Style Chooser Dialog.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Color Chooser Update.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Get Single Plot Style.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Single Plot Style 2.ctl	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Get Color List Element.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Set Waveform Graph Plot Style.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Style Settings Step.ctl	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Plot Style Selector\Point or Line Color List.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\Edit Color List Dialog.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set Style of Selected Plots.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Selected Plots.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Plots to Preserve.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set Plot Style.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Graph Axes Chooser Dialog.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Delete Plot Event.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Delete Selected Plots Event.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Slice Index Array in Contiguous Chunks.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Array Delta [I32].vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Delete Successive Plots.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Check Index Ramp.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Clear Event.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Linear Ramp [I32].vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Save Plot Event.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Save Selected Plots Event.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Compare X Array.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\strings\Remove n final characters.vi	11/8/2021 4:39:49 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Transpose Plot Event.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Sum Selected Plots Event.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\Compare New Plot and Sum X Arrays.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\Axis Differences.ctl	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\Check X Arrays Compatibility.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Arrays\Remove (Almost) Duplicates from 1D Array (DBL).vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Calc\Binary (Approximate) Search 1D Array (DBL).vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Calc\x = y (+-epsilon) [DBL].vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Add Plot to Sum.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Compute Simple Plot Formula Event.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\GUI\Get Formula String Dialog.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Interpolate Plot Event.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Compute Complex Plot Formula Event.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\GUI\Get 2-variable Formula String Dialog.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\Compute (f,g)(X,Y) Arrays.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Show-Hide Grid Event.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Show-Hide Grid.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get X Scale Number.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Y Scale Number.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set Y Scales Grid Colors.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Set X Scales Grid Colors.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Y Scales Grid Colors.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get X Scales Grid Colors.vi	11/8/2021 4:39:50 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Show-Hide Tool Panels Event.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Show-Hide Tool Panels.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Graphs\XY Graph\XY Graph Get Tool Panels Visibility.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Circle Fit\Fit Plot to Circle.vi	11/8/2021 4:39:52 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Circle Fit\Fit Points to Circle.vi	11/8/2021 4:39:51 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Fits\Circle Fit\Fitted Circle Parameters.ctl	11/8/2021 4:39:45 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Sound\System Sounds List.ctl	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Error\Error to String.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\strings\Search and Replace Multiple Patterns.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Sound\Play System Sound.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\LV Tools\Is Runtime Application.vi	11/8/2021 4:39:53 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\LV Tools\Close & Abort VIs.vi	11/8/2021 4:39:53 PM
 D:\UCLA Thinkpad Google Drive\LabVIEW 2019 SP1\builds\Phasor Explorer\Phasor Explorer Distribution\Phasor\Test Pseudo UC.rtm	4/15/2021 3:55:34 PM
 
-11/8/2021 4:12:28 PM
+11/8/2021 4:39:58 PM
