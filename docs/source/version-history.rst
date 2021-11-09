@@ -1,6 +1,20 @@
 Version History
 ===============
 
+0.4.1 (released 2021-11-08)
+---------------------------
+
+- New Features:
+
+	* if the IRF/gate is user-defined, enforce using numerical calculation
+	* Improved SEPL Plot Names
+	* Fixed confusing combination of options when computing Phasor Plot
+	
+- Bug Fixes:
+
+	* Corrected round-off error when computing z_N[W](tau = 0)
+	* Minor improvements and fixes
+	
 0.3.1 (released 2021-04-30)
 ---------------------------
 

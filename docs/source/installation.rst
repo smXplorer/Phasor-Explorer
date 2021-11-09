@@ -32,16 +32,16 @@ Follow the corresponding instructions below for each part, in order to make sure
 Source code installation
 ------------------------
 
-The source files can be found in the Phasor Explorer Distribution repository on Bitbucket at:
-https://bitbucket.org/smXplorer/phasor-explorer-distribution
+The source files can be found in the Phasor Explorer Distribution repository on Github at:
+https://github.com/smXplorer/Phasor-Explorer
 
-You can either clone the repository on your computer using git, or simply download a zipped archive of the full repository from the ``...`` dropdown menu visible on the topright corner of the window (Download repository).
+You can either clone the repository on your computer using git, or simply download a zipped archive of the full repository from the ``Code`` dropdown menu visible on the topright corner of the window (Download ZIP).
 
 Executable installation
 -----------------------
 
-1. Download the zipped installer file, which can be found in the installer directory of the Phasor Explorer Distribution repository on Bitbucket at:
-https://bitbucket.org/smXplorer/phasor-explorer-distribution
+1. Download the zipped installer file, which can be found in the installer directory of the Phasor Explorer Distribution repository on Github at:
+hhttps://github.com/smXplorer/Phasor-Explorer
 
 Note: The installer only installs the software and its dependent files, but won't result in a functional executable unless you have the LabVIEW 64 bit Run-Time Engine (RTE) installed on your machine (*). If you have a LabVIEW 64 bit RTE version more recent than the one recommended below, Phasor Explorer should run fine with it, and thus there is no need to install an older RTE version than the one you are already using.
 
@@ -59,16 +59,14 @@ LabVIEW FDS or RTE Installation
 - The LabVIEW FDS installer is available from NI for registered users, or can be downloaded for a limited trial period, at: https://www.ni.com/en-us/support/downloads/software-products/download.labview.html
 
 
-Registered users can select whatever version they want, while trial users will only have access to the latest version. Whatever version (including or newer than LabVIEW 2019 SP1, make sure you select the 64 bit Windows version.
+Registered users can select whatever version they want, while trial users will only have access to the latest version. Make sure you select the 64 bit LabVIEW 2019 SP1 Windows version.
 
 - The LabVIEW RTE installer is available for free from NI (link below).
 
 (*) The required version of the RTEs depends on the Phasor Explorer software version:
 
-LabVIEW 2019 SP1 (or later) 64 bit RTE for version 0.2 and above:
+LabVIEW 2019 SP1 64 bit RTE for version 0.2 and above:
 RTE: https://www.ni.com/en-us/support/downloads/software-products/download.labview.html#329457
-
-Several versions of the RTE can be installed concurrently on the same machine, but since they are hefty, it is possible to uninstall the unused versions to save space.
 
 Uninstalling Phasor Explorer does not uninstall the corresponding RTE version, therefore it is only necessary to install the required RTE once.
 
